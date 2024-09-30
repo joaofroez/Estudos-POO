@@ -1,0 +1,6 @@
+import docstrings_oneline_help_main, docstrings_manylines_help
+import docstrings_funcao
+
+help(docstrings_oneline_help_main)
+help(docstrings_manylines_help)
+help(docstrings_funcao)
